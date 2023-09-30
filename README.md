@@ -59,7 +59,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/940028956332154940/1154189681244778576/bash-removebg-preview.png" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<br>
+<br>jioy7t6gyuvhjb klmop9iu8yt76r5dtcfghjbnkop
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darktwentyfive&theme=dracula" alt="darktwentyfive" /></p>
