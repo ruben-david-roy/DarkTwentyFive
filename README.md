@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ruben Roy</h1>
 <h3 align="center">A Web & Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?8ujiolkm,.koji9u8y7t6fuyvjhbnkml;okpi9u8yt78guyvjhbjnkmcid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 - 🔭 I’m currently working on [Neuralite](https://github.com/DarkTwentyFive/Neuralite)
 
