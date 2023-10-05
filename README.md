@@ -24,14 +24,15 @@
 
 <h1>Languages:</h1>
 <p align="center"> 
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-hotpink.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2320232a.svg?&style=for-the-badge&logo=SQL&logoColor=%2361DAFB"/>
-  <img alt="C#" src="https://img.shields.io/badge/CSharp-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-%237164A5.svg?&style=for-the-badge&logo=dot-net&logoColor=white"/>
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-%2348B283.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2378A960.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DBFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-%23C76494.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-%232C3E50.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
 <h1>Frameworks & Libraries:</h1>
