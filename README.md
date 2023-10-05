@@ -36,7 +36,6 @@
 
 <h1>Frameworks & Libraries:</h1>
 <p align="center"> 
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-%237164A5.svg?&style=for-the-badge&logo=dot-net&logoColor=white"/>
   <img alt="Electron" src="https://img.shields.io/badge/Electron-%2348B283.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2378A960.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-%2361DBFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
