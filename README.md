@@ -70,7 +70,7 @@
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/darktwentyfive">
+      <a href="https://www.github.com/DarkTwentyFive">
        <img src ="http://github-readme-streak-stats.herokuapp.com?user=darktwentyfive&hide_border=true&theme=tokyonight" />
       </a>
     </td>
