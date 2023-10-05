@@ -82,7 +82,7 @@
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/darktwentyfive/cortex">
+       <a href="https://www.github.com/DarkTwentyFive/cortex">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=cortex&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
