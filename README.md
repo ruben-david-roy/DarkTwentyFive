@@ -24,6 +24,18 @@
 
 <h1>Languages:</h1>
 <p align="center"> 
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-hotpink.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-DD0031?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2320232a.svg?&style=for-the-badge&logo=SQL&logoColor=%2361DAFB"/>
+  <img alt="C#" src="https://img.shields.io/badge/CSharp-%23404d59.svg?&style=for-the-badge"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h1>Frameworks & Libraries:</h1>
+<p align="center"> 
   <img alt=".NET" src="https://img.shields.io/badge/.NET-%237164A5.svg?&style=for-the-badge&logo=dot-net&logoColor=white"/>
   <img alt="Electron" src="https://img.shields.io/badge/Electron-%2348B283.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2378A960.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
@@ -33,19 +45,6 @@
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%232C3E50.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
-
-<h1>Frameworks & Libraries:</h1>
-<p align="left"> 
-<a href="https://www.dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/940028956332154940/1154188307018813581/OIP-removebg-preview.png" alt="express" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/940028956332154940/1154188902622576660/128-1286693_flask-framework-logo-svg-hd-png-download-removebg-preview.png" alt="flask" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/940028956332154940/1154189269691277312/OIP-removebg-preview_1.png" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
 <h1>Tools:</h1>
