@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ruben Roy</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Software%20Developer;PWA%20Developer;Android%20App%20Developer;Chrome%20Extension%20Developer;Replit%20Enjoyer;Github%20User&center=true&width=380&height=45"></a>
