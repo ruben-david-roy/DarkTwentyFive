@@ -63,6 +63,29 @@
 
 <br>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darktwentyfive&theme=dracula" alt="darktwentyfive" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darktwentyfive&show_icons=true&locale=en&theme=dracula" alt="darktwentyfive" /></p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.github.com/thinkswell">
+     <img src="https://github-readme-stats.vercel.app/api?username=darktwentyfive&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
+      </a>
+    </td>
+    <td> 
+      <a href="https://www.github.com/thinkswell">
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=darktwentyfive&hide_border=true&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.github.com/thinkswell">
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=darktwentyfive&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+     <td>
+       <a href="https://www.github.com/thinkswell">
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=cortex&theme=tokyonight&show_icons=true&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
