@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/darktwentyfive">
+      <a href="https://www.github.com/DarkTwentyFive">
      <img src="https://github-readme-stats.vercel.app/api?username=darktwentyfive&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
       </a>
     </td>
