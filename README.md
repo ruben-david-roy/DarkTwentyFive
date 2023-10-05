@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/darktwentyfive">
+      <a href="https://www.github.com/DarkTwentyFive">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=darktwentyfive&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
