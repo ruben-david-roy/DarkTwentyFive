@@ -46,7 +46,7 @@
 </p>
 
 <h1>Tools:</h1>
-<p align="left"> 
+<p align="centre"> 
   <img alt="Android" src="https://img.shields.io/badge/Android-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
