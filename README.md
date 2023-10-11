@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
-- 😀 Check out my [Portfolio](https://ruben-roy.com)
+- 😀 Check out my [Portfolio](https://ruben-roy.com)!
 
-- 📫 Here's my [email](mailto:me@ruben-roy.com)
+- 📫 Here's my [Email](mailto:me@ruben-roy.com)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
