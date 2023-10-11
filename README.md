@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Neuralite](https://github.com/DarkTwentyFive/Neuralite)
 
-- 😀 This is my [Portfolio](https://ruben-roy.com)
+- 😀 Check out my [Portfolio](https://ruben-roy.com)
 
-- 📫 How to reach me **me@ruben-roy.com**
+- 📫 Here's my [email](mailto:me@ruben-roy.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
