@@ -5,15 +5,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dark-twentyfive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dark-twentyfive" height="30" width="40" /></a>
-<a href="https://twitter.com/darktwentyfive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darktwentyfive" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dark25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dark25" height="30" width="40" /></a>
-<a href="https://kaggle.com/dark25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dark25" height="30" width="40" /></a>
-<a href="https://instagram.com/rubenroy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubenroy09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/darktwentyfive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darktwentyfive" height="30" width="40" /></a>
-</p>
+<p align="center">
+  <a href="https://discordapp.com/users/879928606665637959"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/DarkTwentyFive"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/DarkTwentyFive?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/darktwentyfive?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/darktwentyfive"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darktwentyfive?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
 
 <h1>Languages:</h1>
 <p align="center"> 
