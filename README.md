@@ -32,7 +32,6 @@
   <img alt="Electron" src="https://img.shields.io/badge/Electron-%2348B283.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2378A960.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-%2361DBFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-%23C76494.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%232C3E50.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
