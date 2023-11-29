@@ -5,6 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
+<h1 align="center">Contacts</h1>
+<h5 align="center">Below are a few links you can visit and some stats to look at too.</h5>
 <p align="center">
   <a href="https://discordapp.com/users/879928606665637959"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/DarkTwentyFive"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -13,7 +15,7 @@
    <a href="https://github.com/darktwentyfive"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darktwentyfive?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
-<h1>Languages:</h1>
+<h1 align="center">Languages</h1>
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +27,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h1>Frameworks & Libraries:</h1>
+<h1 align="center">Frameworks and Libraries</h1>
 <p align="center"> 
   <img alt="Electron" src="https://img.shields.io/badge/Electron-%2348B283.svg?&style=for-the-badge&logo=electron&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2378A960.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
@@ -37,7 +39,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-<h1>Tools:</h1>
+<h1 align="center">Tools</h1>
 <p align="center"> 
   <img alt="Android" src="https://img.shields.io/badge/Android-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
