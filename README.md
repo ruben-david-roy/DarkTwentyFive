@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
-- 😀 Check out my [Portfolio](https://ruben-roy.com)
-
-- 📫 Wanna contact me? [Click here](https://ruben-roy.com/contact)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dark-twentyfive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dark-twentyfive" height="30" width="40" /></a>
