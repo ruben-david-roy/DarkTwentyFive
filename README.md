@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/DarkTwentyFive">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTwentyFive&theme=dark&hide_border=true&stroke=4837c9"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTwentyFive&theme=tokyonight&hide_border=true&stroke=4837c9"/>
 </a> 
 </p>
 
