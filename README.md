@@ -60,29 +60,9 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.github.com/DarkTwentyFive">
-     <img src="https://github-readme-stats.vercel.app/api?username=darktwentyfive&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
-      </a>
-    </td>
-    <td> 
-      <a href="https://www.github.com/DarkTwentyFive">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=darktwentyfive&hide_border=true&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.github.com/DarkTwentyFive">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=darktwentyfive&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-     <td>
-       <a href="https://www.github.com/DarkTwentyFive/Cortex">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=cortex&theme=tokyonight&show_icons=true&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+## Top Respositories
+  <p align="left">
+     <a href="https://github.com/DarkTwentyFive/NeuraNET-API-Playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=NeuraNET-API-Playground&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DarkTwentyFive/GrooveFM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=GrooveFM&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/darktwentyfive/Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
