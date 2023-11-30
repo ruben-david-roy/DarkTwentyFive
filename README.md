@@ -9,7 +9,7 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too.</h5>
 <p align="center">
   <a href="https://discordapp.com/users/879928606665637959"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/DarkTwentyFive"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@DarkTwentyFive"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/DarkTwentyFive?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/darktwentyfive?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/darktwentyfive"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/darktwentyfive?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
