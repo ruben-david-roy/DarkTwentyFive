@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruben Roy</h1>
+<h1 align="center">Hi, I'm Ruben Roy! 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Software%20Developer;PWA%20Developer;Android%20App%20Developer;CEO%20of%20NeuraNET&center=true&width=700&height=45"></a>
 </p>
