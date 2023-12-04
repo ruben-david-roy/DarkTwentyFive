@@ -55,10 +55,6 @@
 
 <br>
 
-![snek munch](https://github.com/DarkTwentyFive/DarkTwentyFive/blob/output/github-contribution-grid-snake.gif)
-
-<br>
-
 <h1 align="center">Activity on GitHub</h1>
 <p align="center">
   <a href="https://github.com/DarkTwentyFive">      
