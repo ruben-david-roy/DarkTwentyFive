@@ -56,7 +56,7 @@
 <br>
 
 <h1 align="center">Activity on GitHub</h1>
-I'm trying my best to get a super long Github streak!
+<p align="center">I'm trying my best to get a super long Github streak!</p>
 <p align="center">
   <a href="https://github.com/DarkTwentyFive">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTwentyFive&theme=tokyonight&hide_border=true&stroke=4837c9"/>
