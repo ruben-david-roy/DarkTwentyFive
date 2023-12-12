@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Software%20Developer;PWA%20Developer;Android%20App%20Developer;CEO%20of%20NeuraNET&center=true&width=700&height=45"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=6c09b9525aobbh76nqsrx4yy4gdimjtni24ljytfut2ksue0&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="400" src="https://shkspr.mobi/blog/wp-content/uploads/2015/02/loop2.gif">
 
 <h1 align="center">Contacts</h1>
 <h5 align="center">Below are a few links you can visit and some stats to look at too.</h5>
